@@ -1,9 +1,5 @@
 <svelte:head>
-<<<<<<< HEAD
-	<title>Andrey Zorin</title>
-=======
 	<title>Hafus Pirs</title>
->>>>>>> 70ca744 (.)
 </svelte:head>
 <div class="container">
     <div class="info">

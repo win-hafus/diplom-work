@@ -29,7 +29,6 @@
 		},
 		{
 			title: "Portfolio",
-			href: "/projects",
 			href: "/project",
 			isShow: true, 
 		},
