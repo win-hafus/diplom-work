@@ -29,7 +29,11 @@
 		},
 		{
 			title: "Portfolio",
+<<<<<<< HEAD
 			href: "/projects",
+=======
+			href: "/project",
+>>>>>>> 70ca744 (.)
 			isShow: true, 
 		},
 		{
