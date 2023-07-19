@@ -1,6 +1,6 @@
 <nav>
 	<div class="nav__container">
-		<a href="/" class="nav-logo" title="back to Homepage">Andrey Zorin</a>
+		<a href="/" class="nav-logo" title="back to Homepage">Hafus</a>
 		<div class="nav-links">
 			{#each nav as link}
 				{#if link.isShow}
